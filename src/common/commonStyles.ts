@@ -1,0 +1,1 @@
+export const cubicBezierAnimation = 'cubic-bezier(.55, .22, .04, 1)'
